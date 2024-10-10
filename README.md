@@ -1,5 +1,5 @@
 # 💫 About Me:
-zetech university onlinevoting system
+Zetech university online voting system
 
 
 ## 🌐 Socials:
@@ -15,17 +15,11 @@ zetech university onlinevoting system
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Felixtyler254&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Felixtyler254&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Felixtyler254&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/felixtyler530@gmail.com) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
